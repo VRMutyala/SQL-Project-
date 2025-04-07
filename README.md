@@ -1,4 +1,4 @@
-# SQL-Project-
+# SQL_Manufacturing_Project
 # Cement Manufacturing Data Analysis
 # Project Overview
 This project focuses on performing comprehensive data analysis on cement manufacturing data. It aims to offer insights into various aspects of the manufacturing process, including data cleaning, performance analysis, outlier detection, predictive maintenance, and trend forecasting. The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
